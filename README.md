@@ -4,7 +4,7 @@
 ## 下载安装包及依赖包
 打开网址：https://store.rg-adguard.net/
 
-分别粘贴以下网址至文本框，点击选择框，调整发布频道至Retail并点击复选框以获取安装包及依赖包的下载链接：
+分别粘贴以下网址至网站文本框，点击选择框，调整发布频道至Retail并点击复选框以获取安装包及依赖包的下载链接：
 - https://www.microsoft.com/store/productId/9WZDNCRFJBMP
 - https://www.microsoft.com/store/productId/9NBLGGH4NNS1
 - https://www.microsoft.com/store/productId/9NBLGGH4LS1F

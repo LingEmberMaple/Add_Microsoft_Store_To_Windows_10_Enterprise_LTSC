@@ -1,4 +1,4 @@
-# 为Windows 10 Enterprise LTSC添加微软商店
+# 为Windows 10 Enterprise LTSC添加Microsoft Store
 适用于Windows 10 Enterprise LTSC
 
 ## 下载安装包及依赖包

@@ -1,7 +1,11 @@
 # 为Windows 10 Enterprise LTSC添加Microsoft Store
 适用于Windows 10 Enterprise LTSC
 
-## 下载安装包及依赖包
+## 自动安装
+施工中
+
+## 手动安装
+###### 下载安装包及依赖包
 打开网址：https://store.rg-adguard.net/
 
 分别粘贴以下网址至网站文本框，点击选择框，调整发布频道至Retail并点击复选框以获取安装包及依赖包的下载链接：
@@ -20,7 +24,7 @@
 - Microsoft.StorePurchaseApp*
 - Microsoft.XboxIdentityProvider*
 
-## 开始安装
+###### 开始安装
 以管理员身份运行Windows PowerShell
 
 输入并按下回车键：`cd {安装包及依赖包所在文件夹路径}`
@@ -39,4 +43,7 @@ Add-AppxPackage .\Microsoft.WindowsStore*
 ```
 
 ## 安装完成
+###### 商店修复
+Win+R打开运行，输入WSReset.exe并按下回车键
+
 如有问题请提交Issue

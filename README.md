@@ -43,7 +43,4 @@ Add-AppxPackage .\Microsoft.WindowsStore*
 ```
 
 ## 安装完成
-###### 商店修复
-Win+R打开运行，输入WSReset.exe并按下回车键
-
 如有问题请提交Issue
